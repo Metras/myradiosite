@@ -1,0 +1,1 @@
+a php/mysql script thats easy to install and create a shoutcast radio website in minutes. ALl you need is shoutcast station, and a web host! you as the admin can controll everything. and this project will have your radio site going in less then 2 minutes, and looks great and professional.
